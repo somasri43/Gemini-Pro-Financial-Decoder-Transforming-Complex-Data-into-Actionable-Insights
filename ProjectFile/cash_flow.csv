@@ -1,0 +1,9 @@
+Activity,Description,Amount
+Operating,Net Income,159000
+Operating,Depreciation,15000
+Operating,Increase in Accounts Receivable,-5000
+Investing,Purchase of Equipment,-45000
+Investing,Sale of Investments,12000
+Financing,Repayment of Loans,-20000
+Financing,Dividends Paid,-10000
+Net Change,Total Cash Flow,106000
